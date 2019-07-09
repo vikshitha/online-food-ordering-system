@@ -10,7 +10,7 @@ It also allows the admin to manage the details of all the users in the database 
 food in it.
 It is developed with mobile users in mind and as such very responsive which gives users the best experience.
 
-How To Install -
+### How To Install -
 Create Database newpuz.
 Run newpuz.sql script provided in sql folder.
 Go to login.php and try out our application. Sample user credentials can be found in users & wallet_details table.
